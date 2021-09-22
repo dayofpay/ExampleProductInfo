@@ -18,7 +18,7 @@
 *    <Setting Name="password" Type="System.String" Scope="User">
  *     <Value Profile="(Default)" />
  *   </Setting>
-**   <Setting Name="port" Type="System.String" Scope="User">
+*   <Setting Name="port" Type="System.String" Scope="User">
 *      <Value Profile="(Default)">3306</Value>
  *   </Setting>
   *  <Setting Name="ssl" Type="System.String" Scope="User">
