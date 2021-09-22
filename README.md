@@ -2,8 +2,8 @@
  * ✅ Very Simple C# Software to display Product Details using MYSql
 *  ✅ Forms Application API Will be Added Soon
 *  ⚠️ Default DataBase Config / You can Edit them in Properties/Settings
-*<?xml version='1.0' encoding='utf-8'?>
-*<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ExampleProductInfo.Properties" *GeneratedClassName="Settings">
+* <?xml version='1.0' encoding='utf-8'?>
+* <SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ExampleProductInfo.Properties" GeneratedClassName="Settings">
 *  <Profiles />
  * <Settings>
 *    <Setting Name="server" Type="System.String" Scope="User">
